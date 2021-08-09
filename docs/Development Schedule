@@ -2,20 +2,20 @@
 Our set date would be around before the 6th of September 2021 where in this date we would be able to achieve:
   - Completing the mechanics for the Giant and Fairy character
   - Establish a menu system, as well as, the scoring system, loading and saving game state.
-  - Have a finished tutorial level
+  - Have a finished tutorial and first level
   - Create the design and animation for the Giant and Fairy character
 
 **Who is handling what task?
-- Patrick will be handling with the menu and scoring system, as well as, the loading and saving game states.
-- Laurence is handling half of the Giant character's mechanics which would be pushing objects and the pressure plate mechanic, which would also involved multiple interactable objects.
-- Nathaniel is handling the other half of the Giant character's mechanics which would be breaking object and helping with the tutorial level design
-- Katrina is responsible for creating the tutorial level map and design and also helping with the Fairy character's mechanics.
-- Caitlyn is responsible for the Fairy character's mechanics which would be the Fairy's gliding movement, particle effects and lighting a torch interaction.
-- Jeff is our designer and is responsible for creating the character models of the Giant and Fairy, as well as, designing and animating their movements. 
+- Caitlin (thomascait) is responsible for the Fairy character's mechanics which would be the Fairy's gliding movement, particle effects and lighting a torch interaction.
+- Jeff (wanghaow) is our designer and is responsible for creating the character models of the Giant and Fairy, as well as, designing and animating their movements. 
+- Katrina (kellykatr) is responsible for creating the first level level map and design and also helping with the Fairy character's mechanics.
+- Laurence (malatalaur) is handling half of the Giant character's mechanics which would be pushing objects and the pressure plate mechanic, which would also involved multiple interactable objects.
+- Nathaniel (raisnat) is handling the other half of the Giant character's mechanics which would be breaking object and create with the tutorial level design and map.
+- Patrick (laingpatr) will be handling the menu and scoring system, as well as, the loading and saving game states.
 
 **When will these tasks be completed by/.
 - Monday 9th of August, Nathaniel aims to complete the Giant's breaking object interaction.
 - Wednesday 11th of August, Laurence aims to complete the Giant's pushing object interaction.
-- Friday 13th of August, Katrina aims to complete the level 1 design.
+- Friday 13th of August, Katrina aims to complete the first level design.
 - Wednesday 18th of August, Jeff aims to complete the character model of the Giant and Fairy.
 - Monday 23rd of August, Patrick aims to complete the menu and scoring system.
