@@ -5,7 +5,7 @@
 
 
 ## Who is handling what tasks? 
-- Caitlin (thomascait) - 
+- Caitlin (thomascait) - Cait is debugging current blueprints and scripts, and also adding in some more particles, and sound fx (waiting for ambient and background music).
 - Jeff (wanghaow) - 
 - Katrina (kellykatr) - 
 - Laurence (malatalaur) - Laurence is working on the environmental level design for level 1. He is also adding new interactable objects for the Fairy, including a crystal orb and plant growing mechanic.
