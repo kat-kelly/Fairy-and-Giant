@@ -1,4 +1,6 @@
-# Fairy-and-Giant
+# Fairy and Giant
+
+![Logo](https://github.com/kat-kelly/Fairy-and-Giant/blob/main/Resources/fairy_giant.jpg)
 
 ## Credits
 
