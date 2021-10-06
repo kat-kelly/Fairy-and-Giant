@@ -3,8 +3,8 @@
 ## Credits
 
 - Designer - Wangda97-RGB
-- Project Owner - Kat-Kelly
-- Programmers - laurencemalata, large-bagel, laingpatr, NRais
+- Project Owner - Kat Kelly
+- Programmers - Laurence Malata, Caitlan Thomas-Riley, Patrick Laing, NRais
 
 ## Assets
 
