@@ -2,6 +2,8 @@
 
 ![Logo](https://github.com/kat-kelly/Fairy-and-Giant/blob/main/Resources/fairy_giant.jpg)
 
+[**EXE DOWNLOAD LINK**](https://sourceforge.net/projects/fairy-and-giant/)
+
 ## Credits
 
 - Designer - Wangda97-RGB
